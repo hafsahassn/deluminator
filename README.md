@@ -3,6 +3,5 @@ Using the Amazon Alexa app, the Deluminator (ESP32) can control lights through v
 
 ## Arduino IoT Cloud
 
-#### What?
-
+### Introduction
 The ArduinoIoTCloud library is the central element of the firmware enabling certain development boards to connect to the Arduino IoT Cloud.
