@@ -57,6 +57,7 @@ For a step-by-step tutorial: [Alexa - IoT Cloud Integration](https://create.ardu
 * LEDs
 * Jumper Wires
 * Breadboard
+* 12V 2.5A Power Adapter
 * USB to USB Cable
 * Micro USB Connector
 * Multimeter
