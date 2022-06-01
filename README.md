@@ -30,6 +30,7 @@ Arduino IoT Cloud allows you to automatically create any code to program your de
 * Breadboard
 * USB to USB Cable
 * Micro USB Connector
+* Multimeter
 
 ## Libraries Used
 * **Arduino IoT Cloud**
